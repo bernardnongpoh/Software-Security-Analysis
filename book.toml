@@ -4,5 +4,11 @@ language = "en"
 multilingual = false
 src = "src"
 title = "Software Analysis"
+
 [preprocessor.mermaid]
+
+[output]
+
+[output.html]
+additional-js = ["mermaid.min.js", "mermaid-init.js"]
 

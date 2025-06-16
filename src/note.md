@@ -26,6 +26,11 @@ title = "Your Book Title"
 This tells `mdBook` to use the `mdbook-mermaid` preprocessor during build.
 
 ---
+Also you need to execute the following command: 
+
+```bash
+mdbook-mermaid install software-analysis
+```
 
 #### 3. 📝 **Use Mermaid in Markdown**
 

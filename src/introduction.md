@@ -131,6 +131,7 @@ graph TD
 ### 🧠 **Learning Outcomes Summary**
 
 ```mermaid
+
 flowchart TD
     A[Learn Compiler Internals]
     B[Develop Analysis Tools]
